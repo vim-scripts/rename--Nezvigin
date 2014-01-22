@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4840
+
+Rename a buffer within Vim and on the disk. Supports relative path.
+https://github.com/artnez/vim-rename
